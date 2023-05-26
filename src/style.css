@@ -558,7 +558,6 @@ h4 {
         flex-direction: row;
         align-items: center;
         height: 150px;
-        background-image: url("../assets/images/bg-sidebar-desktop.svg");
         background-position: center;
     }
 
