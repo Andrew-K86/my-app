@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Andrew-K86/my-app/static/css/main.a84e9fc3.css",
-    "main.js": "/Andrew-K86/my-app/static/js/main.6cf1e2d1.js",
-    "static/media/bg-sidebar-desktop.svg": "/Andrew-K86/my-app/static/media/bg-sidebar-desktop.6918153f38678372ceb14496fda9664c.svg",
-    "static/media/bg-sidebar-mobile.svg": "/Andrew-K86/my-app/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a9f96479b9c1a.svg",
-    "static/media/icon-advanced.svg": "/Andrew-K86/my-app/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
-    "index.html": "/Andrew-K86/my-app/index.html",
-    "static/media/icon-thank-you.svg": "/Andrew-K86/my-app/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
-    "static/media/icon-pro.svg": "/Andrew-K86/my-app/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
-    "static/media/icon-arcade.svg": "/Andrew-K86/my-app/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
-    "main.a84e9fc3.css.map": "/Andrew-K86/my-app/static/css/main.a84e9fc3.css.map",
-    "main.6cf1e2d1.js.map": "/Andrew-K86/my-app/static/js/main.6cf1e2d1.js.map"
+    "main.css": "/my-app/static/css/main.a84e9fc3.css",
+    "main.js": "/my-app/static/js/main.002a0635.js",
+    "static/media/bg-sidebar-desktop.svg": "/my-app/static/media/bg-sidebar-desktop.6918153f38678372ceb14496fda9664c.svg",
+    "static/media/bg-sidebar-mobile.svg": "/my-app/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a9f96479b9c1a.svg",
+    "static/media/icon-advanced.svg": "/my-app/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/icon-thank-you.svg": "/my-app/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "static/media/icon-pro.svg": "/my-app/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/my-app/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.a84e9fc3.css.map": "/my-app/static/css/main.a84e9fc3.css.map",
+    "main.002a0635.js.map": "/my-app/static/js/main.002a0635.js.map"
   },
   "entrypoints": [
     "static/css/main.a84e9fc3.css",
-    "static/js/main.6cf1e2d1.js"
+    "static/js/main.002a0635.js"
   ]
 }
